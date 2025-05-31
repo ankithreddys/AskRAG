@@ -17,7 +17,7 @@ AskRAG is a modular Conversational Retrieval-Augmented Generation (RAG) system. 
 ## Project Structure
 ````markdown
 
-ASKRAG/
+AsKRAG/
 ├── knowledge-base/               # markdown files grouped in subfolders  
 ├── rag/  
 │   ├── loader.py                 # Loads documents and tags them with doc_type  
@@ -35,8 +35,8 @@ ASKRAG/
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/ASKRAG.git  
-   cd ASKRAG  
+   git clone https://github.com/your-username/AsKRAG.git  
+   cd AsKRAG  
     ```
 2. (Optional) Create and activate a virtual environment
 
